@@ -1,6 +1,6 @@
-# Basic command line based four operation translator
+# Basic console based four operation translator
 
-Command line based translator words to operations with Java. 
+Console based translator words to operations with Java. 
 
 __First part:__  Basic Java Solution
 
